@@ -1,4 +1,4 @@
-## Quackritcs API
+## Quackritcs API <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
 
 Uma api para cadastro e avaliação de filmes. Com crud de usuários, filmes, gêneros e reviews. Desenvolvida em equipe.
 
